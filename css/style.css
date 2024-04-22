@@ -1,0 +1,12 @@
+li {
+    border: 1px solid green;
+    height: 5rem;
+    width: 5rem;
+    list-style: none;
+
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
